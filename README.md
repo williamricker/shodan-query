@@ -1,3 +1,4 @@
 # shodan-query
-simply script for checking Shodan info against CISA KEV catalog 
+Simple script for checking Shodan info against CISA KEV catalog. 
+Usage as follow:
 ![usage](https://github.com/user-attachments/assets/16689ab8-2634-4f76-b915-86f44bca9b46)
